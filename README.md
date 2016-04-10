@@ -7,7 +7,7 @@ This is a simple desktop application devloped in core JAVA paltform. Its main id
 
 The project demands a database created using mySQL using a XAMPP server. The name of the database to be created is "mydb". 
 
-Four tables needs to be created. You can do it manully but it consumes a lot of time. So just import the "mydb." file into your xampp server.
+Four tables needs to be created. You can do it manully but it consumes a lot of time. So just import the "mydb.sql" file into your xampp server.
 
 Register with as a new user.
 

@@ -17,7 +17,7 @@ All the information will be first updated in admin's database which makes this a
 
 
 
-Hope this project serves a great help to all.
+Hope this project is helpful to all.
 Thank you.
 
 
